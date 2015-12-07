@@ -1,0 +1,15 @@
+img/characters/octo-fire.png
+img/characters/octo-water.png
+img/characters/octo-earth.png
+img/levels/gem-red.png
+img/levels/gem-blue.png
+img/levels/gem-green.png
+img/levels/terrain.png
+img/levels/terrain.png
+img/levels/poison.png
+img/levels/lava.png
+img/levels/water.png
+img/levels/spikes.png
+img/levels/portal-red.png
+img/levels/portal-blue.png
+img/levels/portal-green.png
